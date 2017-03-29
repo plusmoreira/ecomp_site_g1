@@ -1,0 +1,22 @@
+/*FONTE PRINCIPAL (ROBOTO)*/
+@font-face {
+    font-family: roboto;
+    src: url(../fonts/Roboto-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: roboto;
+    src: url(../fonts/Roboto-Regular.ttf);
+    font-weight: normal;
+}
+@font-face {
+    font-family: roboto;
+    src: url(../fonts/Roboto-Black.ttf);
+    font-weight: 900;
+}
+
+a{
+  cursor:pointer;
+  text-decoration: none;
+}

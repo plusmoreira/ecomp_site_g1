@@ -1,0 +1,29 @@
+nav.pl{
+  background-color: #000;
+  height: 5em;
+  background: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(255,0,0,1)); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,1)); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,1)); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to top, rgba(0,0,0,0), rgba(0,0,0,1));
+}
+nav.pl a {
+    color: #FFF;
+}
+nav.pl a:hover {
+    color: #DDD;
+    text-decoration: none;
+}
+nav.pl a:visited {
+    color: #EEE;
+    text-decoration: none;
+}
+nav.pl a:active {
+    color: #EEE;
+    text-decoration: none;
+}
+
+.logo{
+  font-size: 16pt;
+  font-weight: 700;
+  font-family: roboto;
+}
