@@ -10,24 +10,28 @@ nav.pl {
 
 nav.pl a {
     color: #FFF;
+    font-weight: 500;
 }
 
-nav.pl a:hover {
-    color: #DDD;
+nav.pl .tab{
+    padding:1.5em 1.4em 1.5em 1.4em;
 }
 
-nav.pl a:visited {
-    color: #EEE;
+nav.pl .tab:hover{
+    background-color: rgba(255,255,255,0.1);
 }
 
-nav.pl a:active {
-    color: #EEE;
+nav.pl .social{
+    padding-left:1.4em;
 }
 
-.logo.pl {
+nav.pl .logo {
     color:#FFF;
     font-size: 16pt;
     font-weight: 700;
+}
+nav.pl .logo:hover {
+    color:#E92121;
 }
 
 #banner.pl {
@@ -35,9 +39,12 @@ nav.pl a:active {
     margin-bottom: 3em;
 }
 
-#banner.pl img {
-    max-width: 100%;
-    height: auto;
+#banner.pl .banbg{
+    background-image: url(../images/header/header_0.png);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 55em;
 }
 
 #banner.pl .title {
@@ -48,14 +55,18 @@ nav.pl a:active {
 }
 
 #banner.pl .title h1 {
-    font-size: 32pt;
+    font-size: 36pt;
     font-weight: 700;
 }
+
 #banner.pl .title h5 {
-    font-size: 12pt;
+    font-size: 14pt;
+    font-weight: 500;
 }
 
-
+#banner.pl .btnmarg  {
+    margin-top: 3em;
+}
 
 
 
