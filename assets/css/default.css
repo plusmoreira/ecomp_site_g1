@@ -1,4 +1,10 @@
 /*FONTE PRINCIPAL (ROBOTO)*/
+@media (min-width: 1200px) {
+  .container {
+    width: 65%;
+  }
+}
+
 @font-face {
     font-family: roboto;
     src: url(../fonts/Roboto-Bold.ttf);
