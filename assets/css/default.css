@@ -1,7 +1,7 @@
 /*FONTE PRINCIPAL (ROBOTO)*/
 @media (min-width: 1200px) {
   .container {
-    width: 65%;
+    width: 60%;
   }
 }
 
@@ -22,7 +22,11 @@
     font-weight: 900;
 }
 
-a{
+body{
+    font-family: roboto;
+}
+
+a, a:hover, a:visited, a:active{
   cursor:pointer;
   text-decoration: none;
 }

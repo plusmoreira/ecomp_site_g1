@@ -1,29 +1,70 @@
-nav.pl{
-  background-color: #000;
-  height: 5em;
-  background: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(255,0,0,1)); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,1)); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,1)); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(to top, rgba(0,0,0,0), rgba(0,0,0,1));
+nav.pl {
+    display: block;
+    position: absolute;
+    width: 100%;
+    z-index: 500;
+    background-color: rgba(0, 0, 0, 0);
+    height: 5em;
+    padding: 1.5em;
 }
+
 nav.pl a {
     color: #FFF;
 }
+
 nav.pl a:hover {
     color: #DDD;
-    text-decoration: none;
-}
-nav.pl a:visited {
-    color: #EEE;
-    text-decoration: none;
-}
-nav.pl a:active {
-    color: #EEE;
-    text-decoration: none;
 }
 
-.logo{
-  font-size: 16pt;
-  font-weight: 700;
-  font-family: roboto;
+nav.pl a:visited {
+    color: #EEE;
+}
+
+nav.pl a:active {
+    color: #EEE;
+}
+
+.logo.pl {
+    color:#FFF;
+    font-size: 16pt;
+    font-weight: 700;
+}
+
+#banner.pl {
+    display: block;
+    margin-bottom: 3em;
+}
+
+#banner.pl img {
+    max-width: 100%;
+    height: auto;
+}
+
+#banner.pl .title {
+    position: absolute;
+    top: 14em;
+    display: block;
+    color:#FFF;
+}
+
+#banner.pl .title h1 {
+    font-size: 32pt;
+    font-weight: 700;
+}
+#banner.pl .title h5 {
+    font-size: 12pt;
+}
+
+
+
+
+
+footer.pl{
+    display: block;
+    background-color: #1E1E1E;
+    padding:4em;
+}
+
+footer.pl a,p{
+    color:#333
 }
