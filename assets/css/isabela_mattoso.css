@@ -1,14 +1,14 @@
 .imourinterestingstory {
 	text-align: left;
 	color: black;
-	margin-left: 25%;
-	margin-top: 30%;
+	padding-left: 10em;
+	padding-top: 10em;
 }
 
 .imhowdoesitwork {
 	text-align: center;
 	font-family: "Roboto", sans-serif;
-	margin-top: 40%;
+	margin-top: 10em;
 	margin-bottom: 10%;
 
 
@@ -26,6 +26,6 @@
 }
 
 .imtextoum {
-	margin-right: 25%;
-	margin-top: 10%;
+/*	padding-right: ;
+	padding-top: ;*/
 }
