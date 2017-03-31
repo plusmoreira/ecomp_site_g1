@@ -1,0 +1,101 @@
+nav.pl {
+    display: block;
+    position: absolute;
+    width: 100%;
+    z-index: 500;
+    background-color: rgba(0, 0, 0, 0);
+    height: 5em;
+    padding: 1.5em;
+}
+
+nav.pl a:not(.logo) {
+    color: #FFF;
+    font-weight: 500;
+}
+
+nav.pl .tab {
+    padding: 1.5em 1.4em 1.5em 1.4em;
+}
+
+nav.pl .tab:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+nav.pl .social {
+    padding-left: 1.4em;
+}
+
+.logo {
+    color: #FFF;
+    font-size: 16pt;
+    font-weight: 700;
+}
+
+.logo:hover {
+    color: #E92121;
+}
+
+#banner.pl {
+    display: block;
+    margin-bottom: 5em;
+}
+
+#banner.pl .banbg {
+    background-image: url(../images/header/header_0.png);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 55em;
+}
+
+#banner.pl .title {
+    position: absolute;
+    top: 14em;
+    display: block;
+    color: #FFF;
+}
+
+#banner.pl .title h1 {
+    font-size: 36pt;
+    font-weight: 700;
+}
+
+#banner.pl .title h5 {
+    font-size: 14pt;
+    font-weight: 500;
+}
+
+#banner.pl .btnmarg {
+    margin-top: 3em;
+}
+
+footer.pl {
+    display: block;
+    background-color: #1E1E1E;
+    padding: 4em;
+}
+
+footer.pl a, footer.pl p {
+    color: #555
+}
+
+footer.pl a:hover{
+    color: #999;
+    text-decoration: underline;
+}
+
+footer.pl .logo{
+    padding:0 0 1.5em 0;
+}
+
+footer.pl .links{
+    list-style: none;
+}
+
+footer.pl ul.links{
+    padding-left: 0;
+}
+
+footer.pl ul.links li{
+    padding-bottom: 1em;
+}

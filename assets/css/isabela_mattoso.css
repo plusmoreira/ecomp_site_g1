@@ -1,0 +1,31 @@
+.imourinterestingstory {
+	text-align: left;
+	color: black;
+	padding-left: 10em;
+	padding-top: 10em;
+}
+
+.imhowdoesitwork {
+	text-align: center;
+	font-family: "Roboto", sans-serif;
+	margin-top: 10em;
+	margin-bottom: 10%;
+
+
+}
+
+.imgraytext {
+	color: #bfbfbf;
+	font-family: "Roboto", sans-serif;
+}
+
+.imcentralizer {
+	margin-left: 12%;
+	margin-right: 12%;
+
+}
+
+.imtextoum {
+/*	padding-right: ;
+	padding-top: ;*/
+}

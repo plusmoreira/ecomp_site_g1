@@ -1,0 +1,95 @@
+/*FONTE PRINCIPAL (ROBOTO)*/
+
+@media (min-width: 1200px) {
+    .container {
+        width: 70%;
+    }
+}
+
+@font-face {
+    font-family: roboto;
+    src: url(../fonts/Roboto-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: roboto;
+    src: url(../fonts/Roboto-Regular.ttf);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: roboto;
+    src: url(../fonts/Roboto-Black.ttf);
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: roboto;
+    src: url(../fonts/Roboto-Medium.ttf);
+    font-weight: 500;
+}
+
+body {
+    font-family: roboto;
+}
+
+a, a:hover, a:visited, a:active {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.no-margin {
+    margin: 0;
+}
+
+.no-padding {
+    padding: 0;
+    text-align: left;
+}
+
+.button {
+    padding: 1em 2.5em 1em 2.5em;
+    color: #FFF;
+    font-weight: bold;
+    border-radius: 3px;
+    margin-right: 1.5em;
+}
+
+.button:hover, .button:visited, .button:active {
+    color: #FFF0F0;
+}
+
+.button.red {
+    border-color: #E92121;
+    border-width: 3px;
+    border-style: solid;
+    background-color: #E92121;
+}
+
+.button.red:hover {
+    background-color: #F93F3F;
+}
+
+.button.transparent {
+    border-color: #EEE;
+    border-width: 3px;
+    border-style: solid;
+}
+
+.button.transparent:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.back {
+    position: fixed;
+    bottom: 0.5em;
+    right: 0.5em;
+    height: 3em;
+    width: 10em;
+    padding: 0.75em;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 3px;
+    text-align: center;
+    color: #333;
+}
