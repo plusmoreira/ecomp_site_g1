@@ -8,7 +8,7 @@ nav.pl {
     padding: 1.5em;
 }
 
-nav.pl a, .back {
+nav.pl a {
     color: #FFF;
     font-weight: 500;
 }
@@ -75,6 +75,6 @@ footer.pl {
     padding: 4em;
 }
 
-footer.pl a, p {
+footer.pl a, footer.pl p {
     color: #333
 }
