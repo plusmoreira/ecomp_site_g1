@@ -8,7 +8,7 @@ nav.pl {
     padding: 1.5em;
 }
 
-nav.pl a {
+nav.pl a, .back {
     color: #FFF;
     font-weight: 500;
 }
