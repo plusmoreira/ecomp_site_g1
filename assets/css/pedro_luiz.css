@@ -13,25 +13,26 @@ nav.pl a {
     font-weight: 500;
 }
 
-nav.pl .tab{
-    padding:1.5em 1.4em 1.5em 1.4em;
+nav.pl .tab {
+    padding: 1.5em 1.4em 1.5em 1.4em;
 }
 
-nav.pl .tab:hover{
-    background-color: rgba(255,255,255,0.1);
+nav.pl .tab:hover {
+    background-color: rgba(255, 255, 255, 0.1);
 }
 
-nav.pl .social{
-    padding-left:1.4em;
+nav.pl .social {
+    padding-left: 1.4em;
 }
 
 nav.pl .logo {
-    color:#FFF;
+    color: #FFF;
     font-size: 16pt;
     font-weight: 700;
 }
+
 nav.pl .logo:hover {
-    color:#E92121;
+    color: #E92121;
 }
 
 #banner.pl {
@@ -39,7 +40,7 @@ nav.pl .logo:hover {
     margin-bottom: 3em;
 }
 
-#banner.pl .banbg{
+#banner.pl .banbg {
     background-image: url(../images/header/header_0.png);
     background-size: cover;
     background-position: center;
@@ -51,7 +52,7 @@ nav.pl .logo:hover {
     position: absolute;
     top: 14em;
     display: block;
-    color:#FFF;
+    color: #FFF;
 }
 
 #banner.pl .title h1 {
@@ -64,18 +65,16 @@ nav.pl .logo:hover {
     font-weight: 500;
 }
 
-#banner.pl .btnmarg  {
+#banner.pl .btnmarg {
     margin-top: 3em;
 }
 
-
-
-footer.pl{
+footer.pl {
     display: block;
     background-color: #1E1E1E;
-    padding:4em;
+    padding: 4em;
 }
 
-footer.pl a,p{
-    color:#333
+footer.pl a, p {
+    color: #333
 }
