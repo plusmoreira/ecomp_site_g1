@@ -8,7 +8,7 @@ nav.pl {
     padding: 1.5em;
 }
 
-nav.pl a {
+nav.pl a:not(.logo) {
     color: #FFF;
     font-weight: 500;
 }
@@ -25,19 +25,19 @@ nav.pl .social {
     padding-left: 1.4em;
 }
 
-nav.pl .logo {
+.logo {
     color: #FFF;
     font-size: 16pt;
     font-weight: 700;
 }
 
-nav.pl .logo:hover {
+.logo:hover {
     color: #E92121;
 }
 
 #banner.pl {
     display: block;
-    margin-bottom: 3em;
+    margin-bottom: 5em;
 }
 
 #banner.pl .banbg {
@@ -76,5 +76,26 @@ footer.pl {
 }
 
 footer.pl a, footer.pl p {
-    color: #333
+    color: #555
+}
+
+footer.pl a:hover{
+    color: #999;
+    text-decoration: underline;
+}
+
+footer.pl .logo{
+    padding:0 0 1.5em 0;
+}
+
+footer.pl .links{
+    list-style: none;
+}
+
+footer.pl ul.links{
+    padding-left: 0;
+}
+
+footer.pl ul.links li{
+    padding-bottom: 1em;
 }
