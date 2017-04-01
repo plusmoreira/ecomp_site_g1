@@ -17,12 +17,37 @@ nav.pl .tab {
     padding: 1.5em 1.4em 1.5em 1.4em;
 }
 
-nav.pl .tab:hover {
+nav.pl .tab:hover, nav.pl .social_icon:hover {
     background-color: rgba(255, 255, 255, 0.1);
 }
 
 nav.pl .social {
-    padding-left: 1.4em;
+    margin-top: -0.4em;
+    padding-left: 1.3em;
+}
+
+nav.pl .social_icon {
+    display: inline-grid;
+    padding: 7px;
+    width: 1.8em;
+    height: 1.8em;
+    border-radius: 100%;
+}
+
+nav.pl .social_icon img {
+    display: block;
+    top: 50%;
+    left: 50%;
+}
+
+nav.pl .social_icon .fb {
+    width: 9px;
+    height: auto;
+}
+
+nav.pl .social_icon .tw {
+    width: 16px;
+    height: auto;
 }
 
 .logo {
@@ -79,23 +104,32 @@ footer.pl a, footer.pl p {
     color: #555
 }
 
-footer.pl a:hover{
+footer.pl a:hover {
     color: #999;
     text-decoration: underline;
 }
 
-footer.pl .logo{
-    padding:0 0 1.5em 0;
+footer.pl .logo {
+    padding: 0 0 1.5em 0;
 }
 
-footer.pl .links{
+footer.pl .links {
     list-style: none;
 }
 
-footer.pl ul.links{
+footer.pl ul.links {
     padding-left: 0;
 }
 
-footer.pl ul.links li{
+footer.pl ul.links li {
     padding-bottom: 1em;
+}
+
+footer.pl .social {
+    padding-top: 1.5em;
+    float:right;
+}
+
+footer.pl .social_icon {
+    padding-left: 1em;
 }
