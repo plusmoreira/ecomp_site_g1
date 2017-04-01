@@ -1,11 +1,12 @@
-.imourinterestingstory {
+.im .ourinterestingstory {
 	text-align: left;
 	color: black;
 	padding-left: 10em;
 	padding-top: 10em;
+	font-size: ;
 }
 
-.imhowdoesitwork {
+.im .howdoesitwork {
 	text-align: center;
 	font-family: "Roboto", sans-serif;
 	margin-top: 10em;
@@ -14,18 +15,29 @@
 
 }
 
-.imgraytext {
+.im .graytext {
 	color: #bfbfbf;
 	font-family: "Roboto", sans-serif;
 }
 
-.imcentralizer {
+.im .centralizer {
 	margin-left: 12%;
 	margin-right: 12%;
 
 }
 
-.imtextoum {
-/*	padding-right: ;
-	padding-top: ;*/
+.im .textoum {
+	padding-right: 10em;
+	padding-top: 6em;
+}
+.im .spacing {
+	padding-top: 4em;
+	/*width: 25em;*/
+}
+
+.im .tamanhodafonte {}
+
+.im .rowwidth {
+	padding-left: 10em;
+	padding-right: 10em;
 }
