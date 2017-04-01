@@ -5,8 +5,11 @@
 }
 
 
-
-
+/*pedro, coloquei pra ver se arruma o problema*/
+.ph .anelzao{
+    width: 10em;
+    height: 10em;
+}
 
 
 
@@ -16,5 +19,4 @@
   margin-left: 0em;
   margin-right: 8em;
   margin-top: 0em;
-  left;
 }
