@@ -1,0 +1,71 @@
+.coment {
+  text-align: center;
+
+}
+
+.bp1 {
+  /*text-align: left;*/
+  font-size: 45px;
+  padding-top: 220px;
+  padding-bottom: 20px;
+}
+
+.bp2 {
+  margin-left: 26%;
+  margin-bottom: 40%;
+  height: 200px;
+  width: 200px;
+
+}
+
+.bp3 {
+  height: auto;
+  width: 25%;
+  float: left;
+}
+
+.bp4 {
+  height: auto;
+  width: 25%;
+  float: right;
+}
+
+.bptxt {
+  padding-top: 125px;
+  opacity: 0.5;
+  width: auto;
+
+}
+
+.bptxt1 {
+  opacity: 0.5;
+}
+.box1 {
+    display: inline-block;
+    width: 45%;
+    padding-right: 9px;
+    opacity: 0.5;
+}
+
+.box2 {
+    display: inline-block;
+    width: 54%;
+    padding-left: 80px;
+    opacity: 0.5;
+
+}
+
+.inutil {
+   font-size: 30px;
+   font-weight:normal;
+   opacity: 0.5;
+}
+#bolinhas {
+   background-color:#f4f4f4;
+   padding: 70px;
+   position: relative;
+}
+
+#fotografia {
+   padding: 95px;
+}

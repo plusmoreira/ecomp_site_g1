@@ -1,20 +1,91 @@
 /*Mercury e texto*/
 
-.ph .mercury{
-  padding-bottom:110px;
+.mercury {
+  align-right: 50%;
+  font-size: 15px;
+  width: 70%;
+  font-family: roboto;
+}
+.ata{
+  font-size: 30px;
+}
+.anelzao {
+  float: left;
 }
 
+.pdbut {
+  padding-top: 38px;
+  padding-left: 2px;
+}
 
+.graytext{
+  color: #bfbfbf;
+	font-family: "Roboto", sans-serif;
+}
 
+.spacin {
+  padding-bottom: 30px;
+  padding-top: 20px;
+}
 
+.textinhos{
+  padding-left: 100px;
+  float: left;
+  width: 60%;
+  padding-bottom: 50px;
+}
 
-
+.textinhos2{
+  padding-left: 360px;
+  width: 120%;
+  padding-bottom: 50px;
+}
 
 /*WHY CHOOSE WE*/
 
-.ph .chooseWe{
-  margin-left: 0em;
-  margin-right: 8em;
-  margin-top: 0em;
-  left;
+.chooseWe{
+   float: left;
+   width: 10%;
+   opacity: 0.9;
+   padding-top: 60px;
+}
+
+.tet {
+   font-size: 17px;
+   opacity: 0.9;
+}
+
+.ph .col-md-6{
+  margin-left: 100px;
+}
+
+.ourjew{
+  font-size: 45px;
+  padding-left: 530px;
+  padding-top: 290px;
+  opacity: 0.9;
+}
+
+.divinha{
+  padding-left: 530px;
+  padding-bottom: 40px;
+}
+
+.anz{
+  display: inline-block;
+  width: 25%;
+  height: auto;
+}
+
+#ph {
+  background-color: #f7f7f7;
+  padding-top: 200px;
+}
+
+#phwe {
+  padding-top: 200px;
+}
+
+#aneis{
+  padding-bottom: 90px;
 }
