@@ -1,6 +1,6 @@
 .coment {
   text-align: center;
-  margin-bottom: 10%;  
+  margin-bottom: 10%;
 
 }
 
@@ -34,8 +34,8 @@
 
 .box1 {
     display: inline-block;
-    width: 45%;
-    padding-right: 9px;
+    width: auto;
+    padding-right: ;
     opacity: 0.5;
 }
 
@@ -79,14 +79,14 @@
 
 .agrvai3 {
   position: absolute;
-  margin-top: 18%;
+  margin-top: 21%;
   margin-left: 30%;
   margin-right: 10%;
 }
 
 .agrvai4 {
   position: absolute;
-  margin-top: 18%;
+  margin-top: 21%;
   margin-left: 60%;
   margin-right: 0%;
 
@@ -119,7 +119,7 @@
 .textin {
   opacity: 0.5;
   padding-left: 45px;
-  width: 29%;
+  width: auto;
 }
 
 .textin1 {
