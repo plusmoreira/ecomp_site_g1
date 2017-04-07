@@ -1,9 +1,6 @@
 .coment {
   text-align: center;
-<<<<<<< HEAD
-=======
   margin-bottom: 10%;
->>>>>>> ab4cd5883f899a1186fb6998724bb546fa44dee7
 
 }
 
@@ -34,28 +31,11 @@
   float: right;
 }
 
-<<<<<<< HEAD
-.bptxt {
-  padding-top: 125px;
-  opacity: 0.5;
-  width: auto;
-
-}
-
-.bptxt1 {
-  opacity: 0.5;
-}
-.box1 {
-    display: inline-block;
-    width: 45%;
-    padding-right: 9px;
-=======
 
 .box1 {
     display: inline-block;
     width: auto;
     padding-right: ;
->>>>>>> ab4cd5883f899a1186fb6998724bb546fa44dee7
     opacity: 0.5;
 }
 
@@ -72,8 +52,6 @@
    font-weight:normal;
    opacity: 0.5;
 }
-<<<<<<< HEAD
-=======
 
 .inutil2 {
   font-size: 18px;
@@ -163,7 +141,6 @@
 
 }
 
->>>>>>> ab4cd5883f899a1186fb6998724bb546fa44dee7
 #bolinhas {
    background-color:#f4f4f4;
    padding: 70px;
