@@ -1,43 +1,50 @@
 .im .ourinterestingstory {
-	text-align: left;
-	color: black;
-	padding-left: 10em;
-	padding-top: 10em;
-	font-size: ;
+    text-align: left;
+    color: #444;
+    padding-top: 5em;
+    font-size: 20pt;
+}
+
+.im .hist{
+	margin-bottom: 5em;
 }
 
 .im .howdoesitwork {
-	text-align: center;
-	font-family: "Roboto", sans-serif;
-	margin-top: 10em;
-	margin-bottom: 10%;
-
-
+    text-align: center;
+    color: #444;
+    font-family: "Roboto", sans-serif;
+    margin-top: 10em;
+    margin-bottom: 5em;
 }
 
 .im .graytext {
-	color: #bfbfbf;
-	font-family: "Roboto", sans-serif;
+    color: #bfbfbf;
+    font-family: "Roboto", sans-serif;
 }
 
-.im .centralizer {
-	margin-left: 12%;
-	margin-right: 12%;
 
+.im .centralizer {
+    /*margin-left: 12%;*/
+    /*margin-right: 12%;*/
 }
 
 .im .textoum {
-	padding-right: 10em;
-	padding-top: 6em;
+    padding-top: 6em;
 }
+
 .im .spacing {
-	padding-top: 4em;
-	/*width: 25em;*/
+    padding-top: 4em;
+    /*width: 25em;*/
 }
 
 .im .tamanhodafonte {}
 
 .im .rowwidth {
-	padding-left: 10em;
+    /*padding-left: 10em;
 	padding-right: 10em;
+*/
+}
+
+.im .rowwidth strong{
+	color: #444;
 }

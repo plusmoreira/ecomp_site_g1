@@ -2,7 +2,7 @@
 
 @media (min-width: 1200px) {
     .container {
-        width: 70%;
+        width: 67.333%;
     }
 }
 
@@ -88,8 +88,12 @@ a, a:hover, a:visited, a:active {
     height: 3em;
     width: 10em;
     padding: 0.75em;
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(10, 10, 10, 0.3);
     border-radius: 3px;
     text-align: center;
-    color: #333;
+    color: #888;
+}
+
+.back:hover {
+    background-color: rgba(0, 0, 0, 0.2);
 }

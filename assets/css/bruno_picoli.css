@@ -1,5 +1,9 @@
 .coment {
   text-align: center;
+<<<<<<< HEAD
+=======
+  margin-bottom: 10%;
+>>>>>>> ab4cd5883f899a1186fb6998724bb546fa44dee7
 
 }
 
@@ -30,6 +34,7 @@
   float: right;
 }
 
+<<<<<<< HEAD
 .bptxt {
   padding-top: 125px;
   opacity: 0.5;
@@ -44,6 +49,13 @@
     display: inline-block;
     width: 45%;
     padding-right: 9px;
+=======
+
+.box1 {
+    display: inline-block;
+    width: auto;
+    padding-right: ;
+>>>>>>> ab4cd5883f899a1186fb6998724bb546fa44dee7
     opacity: 0.5;
 }
 
@@ -60,6 +72,98 @@
    font-weight:normal;
    opacity: 0.5;
 }
+<<<<<<< HEAD
+=======
+
+.inutil2 {
+  font-size: 18px;
+  font-weight: normal;
+  opacity: 0.5;
+}
+
+}
+.bpop{
+  opacity: 0.5;
+
+}
+
+.bpbol{
+
+  display: inline-block;
+}
+
+.agrvai {
+  position: absolute;
+  /*padding-left: 30%;*/
+  margin-left: 30%;
+  margin-right: 10%;
+}
+
+.agrvai3 {
+  position: absolute;
+  margin-top: 21%;
+  margin-left: 30%;
+  margin-right: 10%;
+}
+
+.agrvai4 {
+  position: absolute;
+  margin-top: 21%;
+  margin-left: 60%;
+  margin-right: 0%;
+
+
+}
+
+.enzo{
+  float: left;
+}
+
+.bpbol1{
+  height: 30px;
+  width: 30px;
+  }
+
+.bpbol2{
+  display: inline-block;
+}
+
+.espacin{
+  padding-left: 10px;
+}
+
+.bptxt{
+  font-size: 10px;
+  opacity: 0.5;
+  padding-left: 45px;
+}
+
+.textin {
+  opacity: 0.5;
+  padding-left: 45px;
+  width: auto;
+}
+
+.textin1 {
+  width: 47%;
+  padding-left: 45px;
+  opacity: 0.5;
+}
+
+.textin2{
+  width: 76%;
+  padding-left: 45px;
+  opacity: 0.5;
+
+}
+.agrvai2 {
+  position: absolute;
+  margin-left: 60%;
+  margin-right: 0%;
+
+}
+
+>>>>>>> ab4cd5883f899a1186fb6998724bb546fa44dee7
 #bolinhas {
    background-color:#f4f4f4;
    padding: 70px;
