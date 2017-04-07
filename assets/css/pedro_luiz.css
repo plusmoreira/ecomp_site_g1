@@ -22,15 +22,16 @@ nav.pl .tab:hover, nav.pl .social_icon:hover {
 }
 
 nav.pl .social {
+    margin:0;
     margin-top: -0.4em;
-    padding-left: 1.3em;
+    padding-left: 1.1em;
 }
 
 nav.pl .social_icon {
-    display: inline-grid;
-    padding: 7px;
-    width: 1.8em;
-    height: 1.8em;
+    display: inline-block;
+    padding: 5px;
+    width: 1.6em;
+    height: 1.6em;
     border-radius: 100%;
 }
 
